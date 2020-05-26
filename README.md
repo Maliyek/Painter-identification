@@ -1,29 +1,4 @@
-## Painter Identification with Convolutional Neural Nets [[view code]](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb) 
-![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/keras-v2.1.5-red.svg) ![Image title](https://img.shields.io/badge/TensorFlow-v1.7.0-orange.svg)
-
-**The code is available [here](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb) or by clicking on the [view code] link above.**
-
-<br>
-<br>
-<p align="center">
-  <img src="https://github.com/marcotav/painter-identifier/blob/master/1200px-Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg" 
-       width="350">
-</p>
-<br>
-
-<p align="center">
-  <a href="#goal"> Goal </a> •
-  <a href="#chal"> Challenges and Applications </a> •
-  <a href="#over"> Overview and Data </a> •
-  <a href="#orgdata"> Preprocessing the data </a> •
-  <a href="#Small datasets"> Problems with small datasets </a> •
-  <a href="#bn"> Using bottleneck features of Inception V3 </a> •
-  <a href="#InceptionV3"> Creating and training using the InceptionV3 model </a> •
-  <a href="#trainfully"> Training the fully-connected network</a> •
-  <a href="#plots"> Plotting the accuracy and loss histories </a> •
-  <a href="#Conclusions">Conclusions</a> •
-  <a href="#td">To Dos</a> 
-</p>
+## Painter Identification with Convolutional Neural Nets
 
 <a id = 'goal'></a>
 ## Goal
